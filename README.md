@@ -8,9 +8,9 @@ Realizado con ES6
 - Posee 15 niveles
 - El jugador deberá recordar la secuencia en la que aparecen las letras en el teclado e ingresarlas correctamente, al llegar al nivel 15 habrá ganado el juego.
 
-##Créditos
+## Créditos
 - Glorimar Ramírez
 
-##Licencia
+## Licencia
 
 [MIT](https://opensource.org/licenses/MIT)
